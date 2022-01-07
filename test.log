@@ -1,4 +1,1 @@
-{"level":"info","ts":1641541830.917237,"msg":"","kind":"server","component":"http","operation":"/api.testing.Testing/ListTest","args":"","code":0,"reason":"","stack":"","latency":0.000072621}
-{"level":"info","ts":1641541832.667171,"msg":"","kind":"server","component":"http","operation":"/api.testing.Testing/ListTest","args":"","code":0,"reason":"","stack":"","latency":0.000021621}
-{"level":"info","ts":1641541833.419789,"msg":"","kind":"server","component":"http","operation":"/api.testing.Testing/ListTest","args":"","code":0,"reason":"","stack":"","latency":0.000008703}
-{"level":"info","ts":1641541834.1558158,"msg":"","kind":"server","component":"http","operation":"/api.testing.Testing/ListTest","args":"","code":0,"reason":"","stack":"","latency":0.000008362}
+{"level":"info","ts":1641542323.768793,"msg":"","kind":"server","component":"http","operation":"/api.testing.Testing/ListTest","args":"","code":0,"reason":"","stack":"","latency":0.000096674}
